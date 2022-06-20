@@ -1,0 +1,938 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Gujarat,AHMADABAD,1997,Rabi       ,Wheat,96000,121400
+Gujarat,AHMADABAD,1997,Whole Year ,Rice,75300,114500
+Gujarat,AHMADABAD,1997,Whole Year ,Sugarcane,600,39000
+Gujarat,AHMADABAD,1998,Kharif     ,Rice,52200,72600
+Gujarat,AHMADABAD,1998,Rabi       ,Wheat,91600,138900
+Gujarat,AHMADABAD,1998,Whole Year ,Sugarcane,600,41000
+Gujarat,AHMADABAD,1999,Kharif     ,Rice,75100,78900
+Gujarat,AHMADABAD,1999,Rabi       ,Wheat,84000,114800
+Gujarat,AHMADABAD,1999,Whole Year ,Sugarcane,600,39000
+Gujarat,AHMADABAD,2000,Kharif     ,Rice,84100,37500
+Gujarat,AHMADABAD,2000,Rabi       ,Wheat,48700,78500
+Gujarat,AHMADABAD,2000,Whole Year ,Sugarcane,800,59000
+Gujarat,AHMADABAD,2001,Kharif     ,Rice,82000,144300
+Gujarat,AHMADABAD,2001,Rabi       ,Wheat,81000,103500
+Gujarat,AHMADABAD,2001,Whole Year ,Sugarcane,500,38000
+Gujarat,AHMADABAD,2002,Kharif     ,Rice,47500,39300
+Gujarat,AHMADABAD,2002,Rabi       ,Wheat,79500,107400
+Gujarat,AHMADABAD,2002,Whole Year ,Sugarcane,500,32000
+Gujarat,AHMADABAD,2003,Kharif     ,Rice,83200,197600
+Gujarat,AHMADABAD,2003,Rabi       ,Wheat,111400,182600
+Gujarat,AHMADABAD,2003,Whole Year ,Sugarcane,300,22000
+Gujarat,AHMADABAD,2004,Kharif     ,Rice,78900,176000
+Gujarat,AHMADABAD,2004,Rabi       ,Wheat,124300,218000
+Gujarat,AHMADABAD,2004,Summer     ,Rice,100,200
+Gujarat,AHMADABAD,2004,Whole Year ,Sugarcane,100,5000
+Gujarat,AHMADABAD,2005,Kharif     ,Rice,94800,235500
+Gujarat,AHMADABAD,2005,Rabi       ,Wheat,108000,191900
+Gujarat,AHMADABAD,2005,Summer     ,Rice,1000,2900
+Gujarat,AHMADABAD,2005,Whole Year ,Sugarcane,100,9000
+Gujarat,AHMADABAD,2006,Kharif     ,Rice,97300,178800
+Gujarat,AHMADABAD,2006,Rabi       ,Wheat,132400,228900
+Gujarat,AHMADABAD,2006,Summer     ,Rice,2800,8100
+Gujarat,AHMADABAD,2007,Kharif     ,Rice,105200,214100
+Gujarat,AHMADABAD,2007,Rabi       ,Wheat,150200,275600
+Gujarat,AHMADABAD,2007,Summer     ,Rice,2800,8600
+Gujarat,AHMADABAD,2007,Whole Year ,Sugarcane,100,5000
+Gujarat,AHMADABAD,2008,Kharif     ,Rice,96100,175500
+Gujarat,AHMADABAD,2008,Rabi       ,Wheat,140800,194600
+Gujarat,AHMADABAD,2008,Summer     ,Rice,2300,6400
+Gujarat,AHMADABAD,2008,Whole Year ,Sugarcane,100,4000
+Gujarat,AHMADABAD,2009,Kharif     ,Rice,83700,209200
+Gujarat,AHMADABAD,2009,Rabi       ,Wheat,91500,209500
+Gujarat,AHMADABAD,2009,Summer     ,Rice,5300,17100
+Gujarat,AHMADABAD,2009,Whole Year ,Sugarcane,100,5000
+Gujarat,AHMADABAD,2010,Kharif     ,Rice,103500,273600
+Gujarat,AHMADABAD,2010,Rabi       ,Wheat,230400,547600
+Gujarat,AHMADABAD,2010,Summer     ,Rice,10000,36700
+Gujarat,AHMADABAD,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,AHMADABAD,2011,Kharif     ,Rice,119000,311000
+Gujarat,AHMADABAD,2011,Rabi       ,Wheat,189800,473900
+Gujarat,AHMADABAD,2011,Summer     ,Rice,14100,54600
+Gujarat,AHMADABAD,2012,Kharif     ,Rice,107800,212600
+Gujarat,AHMADABAD,2012,Rabi       ,Wheat,178800,451100
+Gujarat,AHMADABAD,2012,Summer     ,Rice,4700,13100
+Gujarat,AMRELI,1997,Rabi       ,Wheat,17300,49300
+Gujarat,AMRELI,1997,Whole Year ,Sugarcane,5800,427000
+Gujarat,AMRELI,1998,Kharif     ,Rice,100,100
+Gujarat,AMRELI,1998,Rabi       ,Wheat,25600,74800
+Gujarat,AMRELI,1998,Whole Year ,Sugarcane,5200,492000
+Gujarat,AMRELI,1999,Kharif     ,Rice,100,100
+Gujarat,AMRELI,1999,Rabi       ,Wheat,7800,16700
+Gujarat,AMRELI,1999,Whole Year ,Sugarcane,6000,416000
+Gujarat,AMRELI,2000,Rabi       ,Wheat,2600,5900
+Gujarat,AMRELI,2000,Whole Year ,Sugarcane,400,11000
+Gujarat,AMRELI,2001,Kharif     ,Rice,100,100
+Gujarat,AMRELI,2001,Rabi       ,Wheat,11200,30100
+Gujarat,AMRELI,2002,Rabi       ,Wheat,7800,19200
+Gujarat,AMRELI,2002,Whole Year ,Sugarcane,3900,275000
+Gujarat,AMRELI,2003,Rabi       ,Wheat,11600,37900
+Gujarat,AMRELI,2003,Whole Year ,Sugarcane,200,14000
+Gujarat,AMRELI,2004,Rabi       ,Wheat,19100,60900
+Gujarat,AMRELI,2004,Whole Year ,Sugarcane,100,8000
+Gujarat,AMRELI,2005,Rabi       ,Wheat,27000,88300
+Gujarat,AMRELI,2005,Whole Year ,Sugarcane,100,9000
+Gujarat,AMRELI,2006,Rabi       ,Wheat,27800,92700
+Gujarat,AMRELI,2006,Whole Year ,Sugarcane,200,14000
+Gujarat,AMRELI,2007,Rabi       ,Wheat,46700,181700
+Gujarat,AMRELI,2007,Whole Year ,Sugarcane,300,24000
+Gujarat,AMRELI,2008,Rabi       ,Wheat,39300,112000
+Gujarat,AMRELI,2008,Whole Year ,Sugarcane,100,8000
+Gujarat,AMRELI,2009,Rabi       ,Wheat,9100,27300
+Gujarat,AMRELI,2009,Whole Year ,Sugarcane,100,6000
+Gujarat,AMRELI,2010,Rabi       ,Wheat,55000,208200
+Gujarat,AMRELI,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,AMRELI,2011,Rabi       ,Wheat,32300,116100
+Gujarat,AMRELI,2012,Rabi       ,Wheat,5400,15400
+Gujarat,ANAND,2003,Kharif     ,Rice,71900,142700
+Gujarat,ANAND,2003,Rabi       ,Wheat,42200,89800
+Gujarat,ANAND,2003,Summer     ,Rice,1200,4200
+Gujarat,ANAND,2004,Kharif     ,Rice,80400,175100
+Gujarat,ANAND,2004,Rabi       ,Wheat,48600,91600
+Gujarat,ANAND,2004,Summer     ,Rice,500,1400
+Gujarat,ANAND,2005,Kharif     ,Rice,82300,178500
+Gujarat,ANAND,2005,Rabi       ,Wheat,56000,121600
+Gujarat,ANAND,2005,Summer     ,Rice,9100,27100
+Gujarat,ANAND,2006,Kharif     ,Rice,72400,125200
+Gujarat,ANAND,2006,Rabi       ,Wheat,56800,89400
+Gujarat,ANAND,2006,Summer     ,Rice,6100,16500
+Gujarat,ANAND,2007,Kharif     ,Rice,86100,200300
+Gujarat,ANAND,2007,Rabi       ,Wheat,54500,132300
+Gujarat,ANAND,2007,Summer     ,Rice,5000,15300
+Gujarat,ANAND,2008,Kharif     ,Rice,88200,174400
+Gujarat,ANAND,2008,Rabi       ,Wheat,53700,122000
+Gujarat,ANAND,2008,Summer     ,Rice,2200,5600
+Gujarat,ANAND,2009,Kharif     ,Rice,75200,192700
+Gujarat,ANAND,2009,Rabi       ,Wheat,48300,107000
+Gujarat,ANAND,2009,Summer     ,Rice,1000,3000
+Gujarat,ANAND,2010,Kharif     ,Rice,87700,185200
+Gujarat,ANAND,2010,Rabi       ,Wheat,58800,156100
+Gujarat,ANAND,2010,Summer     ,Rice,1500,4100
+Gujarat,ANAND,2011,Kharif     ,Rice,89000,198500
+Gujarat,ANAND,2011,Rabi       ,Wheat,67400,172400
+Gujarat,ANAND,2011,Summer     ,Rice,2800,6300
+Gujarat,ANAND,2012,Kharif     ,Rice,94400,238900
+Gujarat,ANAND,2012,Rabi       ,Wheat,63400,178900
+Gujarat,ANAND,2012,Summer     ,Rice,700,2200
+Gujarat,BANAS KANTHA,1997,Rabi       ,Wheat,42600,109700
+Gujarat,BANAS KANTHA,1997,Whole Year ,Sugarcane,100,7000
+Gujarat,BANAS KANTHA,1998,Rabi       ,Wheat,42900,113300
+Gujarat,BANAS KANTHA,1998,Whole Year ,Sugarcane,100,5000
+Gujarat,BANAS KANTHA,1999,Rabi       ,Wheat,49700,109600
+Gujarat,BANAS KANTHA,1999,Whole Year ,Sugarcane,100,5000
+Gujarat,BANAS KANTHA,2000,Rabi       ,Wheat,54700,138000
+Gujarat,BANAS KANTHA,2000,Whole Year ,Sugarcane,100,3000
+Gujarat,BANAS KANTHA,2001,Rabi       ,Wheat,71900,194200
+Gujarat,BANAS KANTHA,2002,Rabi       ,Wheat,64300,136900
+Gujarat,BANAS KANTHA,2003,Rabi       ,Wheat,48600,132000
+Gujarat,BANAS KANTHA,2004,Rabi       ,Wheat,39000,94600
+Gujarat,BANAS KANTHA,2005,Rabi       ,Wheat,46300,123100
+Gujarat,BANAS KANTHA,2006,Rabi       ,Wheat,68100,170500
+Gujarat,BANAS KANTHA,2007,Rabi       ,Wheat,83000,237000
+Gujarat,BANAS KANTHA,2008,Rabi       ,Wheat,56200,118200
+Gujarat,BANAS KANTHA,2009,Rabi       ,Wheat,65000,178900
+Gujarat,BANAS KANTHA,2010,Rabi       ,Wheat,92900,280200
+Gujarat,BANAS KANTHA,2011,Rabi       ,Wheat,89000,242100
+Gujarat,BANAS KANTHA,2012,Rabi       ,Wheat,92900,270800
+Gujarat,BHARUCH,1997,Rabi       ,Wheat,19900,13900
+Gujarat,BHARUCH,1997,Whole Year ,Rice,25100,24600
+Gujarat,BHARUCH,1997,Whole Year ,Sugarcane,12400,759000
+Gujarat,BHARUCH,1998,Kharif     ,Rice,21100,25200
+Gujarat,BHARUCH,1998,Rabi       ,Wheat,22800,19500
+Gujarat,BHARUCH,1998,Whole Year ,Sugarcane,22000,1123000
+Gujarat,BHARUCH,1999,Kharif     ,Rice,27200,23700
+Gujarat,BHARUCH,1999,Rabi       ,Wheat,9700,12900
+Gujarat,BHARUCH,1999,Whole Year ,Sugarcane,27900,2015000
+Gujarat,BHARUCH,2000,Kharif     ,Rice,27900,17600
+Gujarat,BHARUCH,2000,Rabi       ,Wheat,5700,11800
+Gujarat,BHARUCH,2000,Whole Year ,Sugarcane,26000,1834000
+Gujarat,BHARUCH,2001,Kharif     ,Rice,24200,25200
+Gujarat,BHARUCH,2001,Rabi       ,Wheat,9000,16500
+Gujarat,BHARUCH,2001,Summer     ,Rice,200,600
+Gujarat,BHARUCH,2001,Whole Year ,Sugarcane,29900,1923000
+Gujarat,BHARUCH,2002,Kharif     ,Rice,23700,24200
+Gujarat,BHARUCH,2002,Rabi       ,Wheat,14900,20200
+Gujarat,BHARUCH,2002,Summer     ,Rice,600,2900
+Gujarat,BHARUCH,2002,Whole Year ,Sugarcane,32000,1979000
+Gujarat,BHARUCH,2003,Kharif     ,Rice,13300,21900
+Gujarat,BHARUCH,2003,Rabi       ,Wheat,18800,22100
+Gujarat,BHARUCH,2003,Summer     ,Rice,500,1800
+Gujarat,BHARUCH,2003,Whole Year ,Sugarcane,21400,1391000
+Gujarat,BHARUCH,2004,Kharif     ,Rice,12300,15800
+Gujarat,BHARUCH,2004,Rabi       ,Wheat,21800,29100
+Gujarat,BHARUCH,2004,Summer     ,Rice,200,500
+Gujarat,BHARUCH,2004,Whole Year ,Sugarcane,22300,1565000
+Gujarat,BHARUCH,2005,Kharif     ,Rice,12900,18100
+Gujarat,BHARUCH,2005,Rabi       ,Wheat,17200,25100
+Gujarat,BHARUCH,2005,Summer     ,Rice,200,700
+Gujarat,BHARUCH,2005,Whole Year ,Sugarcane,21200,1562000
+Gujarat,BHARUCH,2006,Kharif     ,Rice,10500,15200
+Gujarat,BHARUCH,2006,Rabi       ,Wheat,17700,19400
+Gujarat,BHARUCH,2006,Summer     ,Rice,400,1100
+Gujarat,BHARUCH,2006,Whole Year ,Sugarcane,25800,1861000
+Gujarat,BHARUCH,2007,Kharif     ,Rice,11400,16800
+Gujarat,BHARUCH,2007,Rabi       ,Wheat,18600,35900
+Gujarat,BHARUCH,2007,Summer     ,Rice,1200,3700
+Gujarat,BHARUCH,2007,Whole Year ,Sugarcane,22000,1646000
+Gujarat,BHARUCH,2008,Kharif     ,Rice,14600,24400
+Gujarat,BHARUCH,2008,Rabi       ,Wheat,21400,29400
+Gujarat,BHARUCH,2008,Summer     ,Rice,800,2500
+Gujarat,BHARUCH,2008,Whole Year ,Sugarcane,20900,1484000
+Gujarat,BHARUCH,2009,Kharif     ,Rice,12200,19400
+Gujarat,BHARUCH,2009,Rabi       ,Wheat,18400,28700
+Gujarat,BHARUCH,2009,Summer     ,Rice,300,1000
+Gujarat,BHARUCH,2009,Whole Year ,Sugarcane,17600,1278000
+Gujarat,BHARUCH,2010,Kharif     ,Rice,11400,19200
+Gujarat,BHARUCH,2010,Rabi       ,Wheat,16800,33700
+Gujarat,BHARUCH,2010,Summer     ,Rice,1800,5500
+Gujarat,BHARUCH,2010,Whole Year ,Sugarcane,20800,1514000
+Gujarat,BHARUCH,2011,Kharif     ,Rice,10300,16500
+Gujarat,BHARUCH,2011,Rabi       ,Wheat,22000,45800
+Gujarat,BHARUCH,2011,Summer     ,Rice,2800,8900
+Gujarat,BHARUCH,2011,Whole Year ,Sugarcane,18800,1163000
+Gujarat,BHARUCH,2012,Kharif     ,Rice,9600,14100
+Gujarat,BHARUCH,2012,Rabi       ,Wheat,23500,44100
+Gujarat,BHARUCH,2012,Summer     ,Rice,2100,6300
+Gujarat,BHARUCH,2012,Whole Year ,Sugarcane,27500,177400
+Gujarat,BHAVNAGAR,1997,Rabi       ,Wheat,10500,23800
+Gujarat,BHAVNAGAR,1997,Whole Year ,Rice,100,200
+Gujarat,BHAVNAGAR,1997,Whole Year ,Sugarcane,200,13000
+Gujarat,BHAVNAGAR,1998,Rabi       ,Wheat,25400,56800
+Gujarat,BHAVNAGAR,1998,Whole Year ,Sugarcane,100,10000
+Gujarat,BHAVNAGAR,1999,Kharif     ,Rice,100,200
+Gujarat,BHAVNAGAR,1999,Rabi       ,Wheat,6800,10800
+Gujarat,BHAVNAGAR,1999,Whole Year ,Sugarcane,200,14000
+Gujarat,BHAVNAGAR,2000,Rabi       ,Wheat,1000,2300
+Gujarat,BHAVNAGAR,2000,Whole Year ,Sugarcane,100,7000
+Gujarat,BHAVNAGAR,2001,Kharif     ,Rice,100,200
+Gujarat,BHAVNAGAR,2001,Rabi       ,Wheat,6400,12700
+Gujarat,BHAVNAGAR,2001,Whole Year ,Sugarcane,100,8000
+Gujarat,BHAVNAGAR,2002,Kharif     ,Rice,100,100
+Gujarat,BHAVNAGAR,2002,Rabi       ,Wheat,12800,29200
+Gujarat,BHAVNAGAR,2002,Whole Year ,Sugarcane,100,8000
+Gujarat,BHAVNAGAR,2003,Rabi       ,Wheat,13500,34300
+Gujarat,BHAVNAGAR,2003,Whole Year ,Sugarcane,200,14000
+Gujarat,BHAVNAGAR,2004,Rabi       ,Wheat,6000,17000
+Gujarat,BHAVNAGAR,2005,Rabi       ,Wheat,31700,91000
+Gujarat,BHAVNAGAR,2006,Rabi       ,Wheat,33300,93000
+Gujarat,BHAVNAGAR,2007,Rabi       ,Wheat,49500,160000
+Gujarat,BHAVNAGAR,2007,Whole Year ,Sugarcane,100,3000
+Gujarat,BHAVNAGAR,2008,Rabi       ,Wheat,33900,88000
+Gujarat,BHAVNAGAR,2008,Whole Year ,Sugarcane,200,17000
+Gujarat,BHAVNAGAR,2009,Rabi       ,Wheat,5400,13500
+Gujarat,BHAVNAGAR,2009,Whole Year ,Sugarcane,200,14000
+Gujarat,BHAVNAGAR,2010,Rabi       ,Wheat,31700,92900
+Gujarat,BHAVNAGAR,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,BHAVNAGAR,2011,Rabi       ,Wheat,9700,28700
+Gujarat,BHAVNAGAR,2011,Whole Year ,Sugarcane,400,21000
+Gujarat,BHAVNAGAR,2012,Rabi       ,Wheat,2400,7900
+Gujarat,BHAVNAGAR,2012,Whole Year ,Sugarcane,100,700
+Gujarat,DANG,1997,Rabi       ,Wheat,100,200
+Gujarat,DANG,1997,Whole Year ,Rice,11400,8800
+Gujarat,DANG,1998,Kharif     ,Rice,12300,13500
+Gujarat,DANG,1998,Rabi       ,Wheat,200,500
+Gujarat,DANG,1999,Kharif     ,Rice,13100,13000
+Gujarat,DANG,1999,Rabi       ,Wheat,200,500
+Gujarat,DANG,2000,Kharif     ,Rice,12400,8300
+Gujarat,DANG,2000,Rabi       ,Wheat,100,300
+Gujarat,DANG,2001,Kharif     ,Rice,12200,15300
+Gujarat,DANG,2001,Rabi       ,Wheat,100,400
+Gujarat,DANG,2002,Kharif     ,Rice,14100,10700
+Gujarat,DANG,2002,Rabi       ,Wheat,100,300
+Gujarat,DANG,2003,Kharif     ,Rice,14000,17100
+Gujarat,DANG,2004,Kharif     ,Rice,12600,30500
+Gujarat,DANG,2004,Rabi       ,Wheat,100,400
+Gujarat,DANG,2005,Kharif     ,Rice,15500,20900
+Gujarat,DANG,2005,Rabi       ,Wheat,200,500
+Gujarat,DANG,2006,Kharif     ,Rice,16900,20400
+Gujarat,DANG,2006,Rabi       ,Wheat,300,900
+Gujarat,DANG,2006,Whole Year ,Sugarcane,100,4000
+Gujarat,DANG,2007,Kharif     ,Rice,16800,22800
+Gujarat,DANG,2007,Rabi       ,Wheat,400,1400
+Gujarat,DANG,2007,Whole Year ,Sugarcane,100,5000
+Gujarat,DANG,2008,Kharif     ,Rice,17900,22700
+Gujarat,DANG,2008,Rabi       ,Wheat,700,1700
+Gujarat,DANG,2008,Whole Year ,Sugarcane,100,11000
+Gujarat,DANG,2009,Kharif     ,Rice,15800,17400
+Gujarat,DANG,2009,Rabi       ,Wheat,800,2200
+Gujarat,DANG,2009,Whole Year ,Sugarcane,100,6000
+Gujarat,DANG,2010,Kharif     ,Rice,18000,23400
+Gujarat,DANG,2010,Rabi       ,Wheat,2400,8100
+Gujarat,DANG,2011,Kharif     ,Rice,18000,30700
+Gujarat,DANG,2011,Rabi       ,Wheat,4400,13900
+Gujarat,DANG,2011,Whole Year ,Sugarcane,100,5000
+Gujarat,DANG,2012,Kharif     ,Rice,13800,21800
+Gujarat,DANG,2012,Rabi       ,Wheat,3800,11300
+Gujarat,DOHAD,2003,Kharif     ,Rice,54600,75200
+Gujarat,DOHAD,2003,Rabi       ,Wheat,47800,96600
+Gujarat,DOHAD,2004,Kharif     ,Rice,49700,39300
+Gujarat,DOHAD,2004,Rabi       ,Wheat,55600,110300
+Gujarat,DOHAD,2005,Kharif     ,Rice,44900,35800
+Gujarat,DOHAD,2005,Rabi       ,Wheat,34300,73400
+Gujarat,DOHAD,2006,Kharif     ,Rice,45700,38700
+Gujarat,DOHAD,2006,Rabi       ,Wheat,56800,115700
+Gujarat,DOHAD,2007,Kharif     ,Rice,39300,38900
+Gujarat,DOHAD,2007,Rabi       ,Wheat,65300,146500
+Gujarat,DOHAD,2008,Kharif     ,Rice,36100,24800
+Gujarat,DOHAD,2008,Rabi       ,Wheat,24900,41100
+Gujarat,DOHAD,2009,Kharif     ,Rice,29700,7500
+Gujarat,DOHAD,2009,Rabi       ,Wheat,32900,60800
+Gujarat,DOHAD,2010,Kharif     ,Rice,35800,32000
+Gujarat,DOHAD,2010,Rabi       ,Wheat,33300,65800
+Gujarat,DOHAD,2011,Kharif     ,Rice,36200,31700
+Gujarat,DOHAD,2011,Rabi       ,Wheat,36900,87800
+Gujarat,DOHAD,2012,Kharif     ,Rice,31800,35800
+Gujarat,DOHAD,2012,Rabi       ,Wheat,48700,151300
+Gujarat,GANDHINAGAR,1997,Rabi       ,Wheat,8800,25700
+Gujarat,GANDHINAGAR,1997,Whole Year ,Rice,7200,19400
+Gujarat,GANDHINAGAR,1998,Kharif     ,Rice,5900,15600
+Gujarat,GANDHINAGAR,1998,Rabi       ,Wheat,7100,22500
+Gujarat,GANDHINAGAR,1999,Kharif     ,Rice,7900,24000
+Gujarat,GANDHINAGAR,1999,Rabi       ,Wheat,7300,28800
+Gujarat,GANDHINAGAR,2000,Kharif     ,Rice,7600,17100
+Gujarat,GANDHINAGAR,2000,Rabi       ,Wheat,7000,22700
+Gujarat,GANDHINAGAR,2001,Kharif     ,Rice,7000,17500
+Gujarat,GANDHINAGAR,2001,Rabi       ,Wheat,7700,26100
+Gujarat,GANDHINAGAR,2002,Kharif     ,Rice,4600,9900
+Gujarat,GANDHINAGAR,2002,Rabi       ,Wheat,6500,17200
+Gujarat,GANDHINAGAR,2003,Kharif     ,Rice,13100,35200
+Gujarat,GANDHINAGAR,2003,Rabi       ,Wheat,22900,69500
+Gujarat,GANDHINAGAR,2004,Kharif     ,Rice,13200,29100
+Gujarat,GANDHINAGAR,2004,Rabi       ,Wheat,26500,78900
+Gujarat,GANDHINAGAR,2005,Kharif     ,Rice,10000,27200
+Gujarat,GANDHINAGAR,2005,Rabi       ,Wheat,25200,77600
+Gujarat,GANDHINAGAR,2005,Summer     ,Rice,300,900
+Gujarat,GANDHINAGAR,2006,Kharif     ,Rice,11300,25600
+Gujarat,GANDHINAGAR,2006,Rabi       ,Wheat,27500,80900
+Gujarat,GANDHINAGAR,2006,Summer     ,Rice,3000,8600
+Gujarat,GANDHINAGAR,2007,Kharif     ,Rice,12800,32000
+Gujarat,GANDHINAGAR,2007,Rabi       ,Wheat,43800,141700
+Gujarat,GANDHINAGAR,2007,Summer     ,Rice,3000,9200
+Gujarat,GANDHINAGAR,2008,Kharif     ,Rice,12800,26900
+Gujarat,GANDHINAGAR,2008,Rabi       ,Wheat,32800,83200
+Gujarat,GANDHINAGAR,2009,Kharif     ,Rice,10600,22200
+Gujarat,GANDHINAGAR,2009,Rabi       ,Wheat,29100,86900
+Gujarat,GANDHINAGAR,2010,Kharif     ,Rice,16000,36900
+Gujarat,GANDHINAGAR,2010,Rabi       ,Wheat,35900,117200
+Gujarat,GANDHINAGAR,2011,Kharif     ,Rice,8800,20100
+Gujarat,GANDHINAGAR,2011,Rabi       ,Wheat,35100,116200
+Gujarat,GANDHINAGAR,2012,Kharif     ,Rice,3500,8100
+Gujarat,GANDHINAGAR,2012,Rabi       ,Wheat,30300,98400
+Gujarat,JAMNAGAR,1997,Rabi       ,Wheat,22200,61300
+Gujarat,JAMNAGAR,1997,Whole Year ,Sugarcane,500,33000
+Gujarat,JAMNAGAR,1998,Rabi       ,Wheat,20300,51800
+Gujarat,JAMNAGAR,1998,Whole Year ,Sugarcane,300,20000
+Gujarat,JAMNAGAR,1999,Rabi       ,Wheat,4700,8000
+Gujarat,JAMNAGAR,1999,Whole Year ,Sugarcane,100,9000
+Gujarat,JAMNAGAR,2000,Rabi       ,Wheat,1600,3700
+Gujarat,JAMNAGAR,2000,Whole Year ,Sugarcane,300,22000
+Gujarat,JAMNAGAR,2001,Rabi       ,Wheat,9800,27800
+Gujarat,JAMNAGAR,2001,Whole Year ,Sugarcane,200,11000
+Gujarat,JAMNAGAR,2002,Rabi       ,Wheat,3000,7200
+Gujarat,JAMNAGAR,2002,Whole Year ,Sugarcane,100,5000
+Gujarat,JAMNAGAR,2003,Rabi       ,Wheat,37600,133400
+Gujarat,JAMNAGAR,2003,Whole Year ,Sugarcane,300,22000
+Gujarat,JAMNAGAR,2004,Rabi       ,Wheat,14800,47300
+Gujarat,JAMNAGAR,2004,Whole Year ,Sugarcane,300,21000
+Gujarat,JAMNAGAR,2005,Rabi       ,Wheat,29100,79300
+Gujarat,JAMNAGAR,2005,Whole Year ,Sugarcane,300,28000
+Gujarat,JAMNAGAR,2006,Rabi       ,Wheat,49900,146500
+Gujarat,JAMNAGAR,2006,Whole Year ,Sugarcane,200,17000
+Gujarat,JAMNAGAR,2007,Rabi       ,Wheat,48500,181000
+Gujarat,JAMNAGAR,2007,Whole Year ,Sugarcane,700,52000
+Gujarat,JAMNAGAR,2008,Rabi       ,Wheat,35600,117100
+Gujarat,JAMNAGAR,2008,Whole Year ,Sugarcane,500,33000
+Gujarat,JAMNAGAR,2009,Rabi       ,Wheat,36000,118600
+Gujarat,JAMNAGAR,2009,Whole Year ,Sugarcane,500,35000
+Gujarat,JAMNAGAR,2010,Rabi       ,Wheat,60400,219900
+Gujarat,JAMNAGAR,2010,Whole Year ,Sugarcane,500,36000
+Gujarat,JAMNAGAR,2011,Rabi       ,Wheat,38100,136900
+Gujarat,JAMNAGAR,2012,Rabi       ,Wheat,4800,11700
+Gujarat,JUNAGADH,1997,Rabi       ,Wheat,65700,239100
+Gujarat,JUNAGADH,1997,Whole Year ,Rice,100,200
+Gujarat,JUNAGADH,1997,Whole Year ,Sugarcane,8000,756000
+Gujarat,JUNAGADH,1998,Rabi       ,Wheat,69100,258600
+Gujarat,JUNAGADH,1998,Whole Year ,Sugarcane,7400,646000
+Gujarat,JUNAGADH,1999,Rabi       ,Wheat,20900,59500
+Gujarat,JUNAGADH,1999,Whole Year ,Sugarcane,7600,547000
+Gujarat,JUNAGADH,2000,Rabi       ,Wheat,5800,13700
+Gujarat,JUNAGADH,2000,Whole Year ,Sugarcane,1600,102000
+Gujarat,JUNAGADH,2001,Rabi       ,Wheat,69500,235600
+Gujarat,JUNAGADH,2001,Whole Year ,Sugarcane,5600,441000
+Gujarat,JUNAGADH,2002,Rabi       ,Wheat,14700,45200
+Gujarat,JUNAGADH,2002,Whole Year ,Sugarcane,5700,527000
+Gujarat,JUNAGADH,2003,Rabi       ,Wheat,90300,333900
+Gujarat,JUNAGADH,2003,Whole Year ,Sugarcane,4400,414000
+Gujarat,JUNAGADH,2004,Rabi       ,Wheat,95000,340000
+Gujarat,JUNAGADH,2004,Whole Year ,Sugarcane,5500,548000
+Gujarat,JUNAGADH,2005,Rabi       ,Wheat,109000,413900
+Gujarat,JUNAGADH,2005,Whole Year ,Sugarcane,10800,1020000
+Gujarat,JUNAGADH,2006,Rabi       ,Wheat,142300,521400
+Gujarat,JUNAGADH,2006,Whole Year ,Sugarcane,14800,1525000
+Gujarat,JUNAGADH,2007,Rabi       ,Wheat,179600,759000
+Gujarat,JUNAGADH,2007,Whole Year ,Sugarcane,11700,1051000
+Gujarat,JUNAGADH,2008,Rabi       ,Wheat,188100,551600
+Gujarat,JUNAGADH,2008,Whole Year ,Sugarcane,14600,977000
+Gujarat,JUNAGADH,2009,Rabi       ,Wheat,120500,412700
+Gujarat,JUNAGADH,2009,Whole Year ,Sugarcane,10100,690000
+Gujarat,JUNAGADH,2010,Rabi       ,Wheat,210000,905900
+Gujarat,JUNAGADH,2010,Whole Year ,Sugarcane,8800,679000
+Gujarat,JUNAGADH,2011,Kharif     ,Rice,200,500
+Gujarat,JUNAGADH,2011,Rabi       ,Wheat,152300,585500
+Gujarat,JUNAGADH,2011,Whole Year ,Sugarcane,12800,923000
+Gujarat,JUNAGADH,2012,Rabi       ,Wheat,39700,122600
+Gujarat,JUNAGADH,2012,Whole Year ,Sugarcane,1400,10400
+Gujarat,KACHCHH,1997,Rabi       ,Wheat,14500,43100
+Gujarat,KACHCHH,1997,Whole Year ,Sugarcane,200,15000
+Gujarat,KACHCHH,1998,Rabi       ,Wheat,12900,36000
+Gujarat,KACHCHH,1998,Whole Year ,Sugarcane,200,12000
+Gujarat,KACHCHH,1999,Rabi       ,Wheat,16900,48000
+Gujarat,KACHCHH,1999,Whole Year ,Sugarcane,300,21000
+Gujarat,KACHCHH,2000,Rabi       ,Wheat,11100,27200
+Gujarat,KACHCHH,2001,Rabi       ,Wheat,13600,35900
+Gujarat,KACHCHH,2001,Whole Year ,Sugarcane,200,11000
+Gujarat,KACHCHH,2002,Rabi       ,Wheat,16200,39600
+Gujarat,KACHCHH,2002,Whole Year ,Sugarcane,300,23000
+Gujarat,KACHCHH,2003,Rabi       ,Wheat,16900,46800
+Gujarat,KACHCHH,2003,Whole Year ,Sugarcane,200,14000
+Gujarat,KACHCHH,2004,Rabi       ,Wheat,11600,29200
+Gujarat,KACHCHH,2005,Rabi       ,Wheat,7900,20300
+Gujarat,KACHCHH,2005,Whole Year ,Sugarcane,100,5000
+Gujarat,KACHCHH,2006,Rabi       ,Wheat,25500,66300
+Gujarat,KACHCHH,2006,Whole Year ,Sugarcane,500,37000
+Gujarat,KACHCHH,2007,Rabi       ,Wheat,30200,84300
+Gujarat,KACHCHH,2007,Whole Year ,Sugarcane,200,18000
+Gujarat,KACHCHH,2008,Rabi       ,Wheat,20100,55200
+Gujarat,KACHCHH,2008,Whole Year ,Sugarcane,100,8000
+Gujarat,KACHCHH,2009,Rabi       ,Wheat,25300,71800
+Gujarat,KACHCHH,2009,Whole Year ,Sugarcane,100,6000
+Gujarat,KACHCHH,2010,Rabi       ,Wheat,34800,97000
+Gujarat,KACHCHH,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,KACHCHH,2011,Rabi       ,Wheat,30600,89800
+Gujarat,KACHCHH,2012,Rabi       ,Wheat,29900,91600
+Gujarat,KACHCHH,2012,Whole Year ,Sugarcane,100,500
+Gujarat,KHEDA,1997,Rabi       ,Wheat,69200,117200
+Gujarat,KHEDA,1997,Whole Year ,Rice,155600,273500
+Gujarat,KHEDA,1997,Whole Year ,Sugarcane,600,49000
+Gujarat,KHEDA,1998,Kharif     ,Rice,145200,286400
+Gujarat,KHEDA,1998,Rabi       ,Wheat,71100,147800
+Gujarat,KHEDA,1998,Whole Year ,Sugarcane,700,53000
+Gujarat,KHEDA,1999,Kharif     ,Rice,169100,363900
+Gujarat,KHEDA,1999,Rabi       ,Wheat,89200,186400
+Gujarat,KHEDA,1999,Whole Year ,Sugarcane,900,75000
+Gujarat,KHEDA,2000,Kharif     ,Rice,112500,73400
+Gujarat,KHEDA,2000,Rabi       ,Wheat,36600,86800
+Gujarat,KHEDA,2000,Summer     ,Rice,100,500
+Gujarat,KHEDA,2000,Whole Year ,Sugarcane,600,48000
+Gujarat,KHEDA,2001,Kharif     ,Rice,171800,308400
+Gujarat,KHEDA,2001,Rabi       ,Wheat,50100,120900
+Gujarat,KHEDA,2001,Summer     ,Rice,300,800
+Gujarat,KHEDA,2001,Whole Year ,Sugarcane,100,3000
+Gujarat,KHEDA,2002,Kharif     ,Rice,71200,93500
+Gujarat,KHEDA,2002,Rabi       ,Wheat,74700,144700
+Gujarat,KHEDA,2002,Summer     ,Rice,200,800
+Gujarat,KHEDA,2003,Kharif     ,Rice,98800,198900
+Gujarat,KHEDA,2003,Rabi       ,Wheat,57300,153200
+Gujarat,KHEDA,2003,Summer     ,Rice,10000,34400
+Gujarat,KHEDA,2004,Kharif     ,Rice,99400,223900
+Gujarat,KHEDA,2004,Rabi       ,Wheat,60800,158700
+Gujarat,KHEDA,2004,Summer     ,Rice,2800,8100
+Gujarat,KHEDA,2005,Kharif     ,Rice,89700,218500
+Gujarat,KHEDA,2005,Rabi       ,Wheat,58200,145500
+Gujarat,KHEDA,2005,Summer     ,Rice,1800,5500
+Gujarat,KHEDA,2006,Kharif     ,Rice,92400,169300
+Gujarat,KHEDA,2006,Rabi       ,Wheat,62600,151900
+Gujarat,KHEDA,2006,Summer     ,Rice,7900,22200
+Gujarat,KHEDA,2007,Kharif     ,Rice,99800,237400
+Gujarat,KHEDA,2007,Rabi       ,Wheat,78400,241200
+Gujarat,KHEDA,2007,Summer     ,Rice,4800,15100
+Gujarat,KHEDA,2008,Kharif     ,Rice,101100,211600
+Gujarat,KHEDA,2008,Rabi       ,Wheat,67800,135300
+Gujarat,KHEDA,2008,Summer     ,Rice,2300,6500
+Gujarat,KHEDA,2009,Kharif     ,Rice,87100,201300
+Gujarat,KHEDA,2009,Rabi       ,Wheat,65500,160500
+Gujarat,KHEDA,2009,Summer     ,Rice,5300,14700
+Gujarat,KHEDA,2010,Kharif     ,Rice,87300,210500
+Gujarat,KHEDA,2010,Rabi       ,Wheat,100400,271200
+Gujarat,KHEDA,2010,Summer     ,Rice,10100,25800
+Gujarat,KHEDA,2011,Kharif     ,Rice,97500,212700
+Gujarat,KHEDA,2011,Rabi       ,Wheat,76000,220600
+Gujarat,KHEDA,2011,Summer     ,Rice,12000,33800
+Gujarat,KHEDA,2012,Kharif     ,Rice,81700,194500
+Gujarat,KHEDA,2012,Rabi       ,Wheat,86000,223500
+Gujarat,KHEDA,2012,Summer     ,Rice,2600,8300
+Gujarat,KHEDA,2012,Whole Year ,Sugarcane,300,2200
+Gujarat,MAHESANA,1997,Rabi       ,Wheat,85900,230200
+Gujarat,MAHESANA,1997,Whole Year ,Rice,13800,27300
+Gujarat,MAHESANA,1998,Kharif     ,Rice,11400,22200
+Gujarat,MAHESANA,1998,Rabi       ,Wheat,79300,210300
+Gujarat,MAHESANA,1999,Kharif     ,Rice,11700,17200
+Gujarat,MAHESANA,1999,Rabi       ,Wheat,65400,182800
+Gujarat,MAHESANA,2000,Kharif     ,Rice,10200,7100
+Gujarat,MAHESANA,2000,Rabi       ,Wheat,58500,148300
+Gujarat,MAHESANA,2001,Kharif     ,Rice,12600,23600
+Gujarat,MAHESANA,2001,Rabi       ,Wheat,70000,198200
+Gujarat,MAHESANA,2002,Kharif     ,Rice,3700,5300
+Gujarat,MAHESANA,2002,Rabi       ,Wheat,45500,107900
+Gujarat,MAHESANA,2003,Kharif     ,Rice,7200,9700
+Gujarat,MAHESANA,2003,Rabi       ,Wheat,36100,98300
+Gujarat,MAHESANA,2004,Kharif     ,Rice,4500,10900
+Gujarat,MAHESANA,2004,Rabi       ,Wheat,31300,83400
+Gujarat,MAHESANA,2005,Kharif     ,Rice,6000,13600
+Gujarat,MAHESANA,2005,Rabi       ,Wheat,42900,125700
+Gujarat,MAHESANA,2006,Kharif     ,Rice,8100,16700
+Gujarat,MAHESANA,2006,Rabi       ,Wheat,54900,156700
+Gujarat,MAHESANA,2007,Kharif     ,Rice,8300,19100
+Gujarat,MAHESANA,2007,Rabi       ,Wheat,64700,203700
+Gujarat,MAHESANA,2008,Kharif     ,Rice,5900,12100
+Gujarat,MAHESANA,2008,Rabi       ,Wheat,63000,145600
+Gujarat,MAHESANA,2009,Kharif     ,Rice,6200,15700
+Gujarat,MAHESANA,2009,Rabi       ,Wheat,73200,213200
+Gujarat,MAHESANA,2010,Kharif     ,Rice,8200,17400
+Gujarat,MAHESANA,2010,Rabi       ,Wheat,75300,229900
+Gujarat,MAHESANA,2011,Kharif     ,Rice,5400,9700
+Gujarat,MAHESANA,2011,Rabi       ,Wheat,73100,230400
+Gujarat,MAHESANA,2012,Kharif     ,Rice,1400,3200
+Gujarat,MAHESANA,2012,Rabi       ,Wheat,83800,249300
+Gujarat,NARMADA,2003,Kharif     ,Rice,13900,10800
+Gujarat,NARMADA,2003,Rabi       ,Wheat,1600,4600
+Gujarat,NARMADA,2003,Whole Year ,Sugarcane,5600,402000
+Gujarat,NARMADA,2004,Kharif     ,Rice,12200,11400
+Gujarat,NARMADA,2004,Rabi       ,Wheat,1800,4900
+Gujarat,NARMADA,2004,Whole Year ,Sugarcane,5900,434000
+Gujarat,NARMADA,2005,Kharif     ,Rice,10800,8600
+Gujarat,NARMADA,2005,Rabi       ,Wheat,1900,4100
+Gujarat,NARMADA,2005,Whole Year ,Sugarcane,3800,281000
+Gujarat,NARMADA,2006,Kharif     ,Rice,13000,9700
+Gujarat,NARMADA,2006,Rabi       ,Wheat,1900,5500
+Gujarat,NARMADA,2006,Whole Year ,Sugarcane,4300,309000
+Gujarat,NARMADA,2007,Kharif     ,Rice,13600,11600
+Gujarat,NARMADA,2007,Rabi       ,Wheat,2100,6700
+Gujarat,NARMADA,2007,Whole Year ,Sugarcane,4500,318000
+Gujarat,NARMADA,2008,Kharif     ,Rice,15200,13700
+Gujarat,NARMADA,2008,Rabi       ,Wheat,1900,4800
+Gujarat,NARMADA,2008,Whole Year ,Sugarcane,4700,320000
+Gujarat,NARMADA,2009,Kharif     ,Rice,15000,8200
+Gujarat,NARMADA,2009,Rabi       ,Wheat,2200,6000
+Gujarat,NARMADA,2009,Whole Year ,Sugarcane,3900,275000
+Gujarat,NARMADA,2010,Kharif     ,Rice,12000,10500
+Gujarat,NARMADA,2010,Rabi       ,Wheat,4000,13200
+Gujarat,NARMADA,2010,Whole Year ,Sugarcane,11700,899000
+Gujarat,NARMADA,2011,Kharif     ,Rice,17900,14700
+Gujarat,NARMADA,2011,Rabi       ,Wheat,4300,13700
+Gujarat,NARMADA,2011,Whole Year ,Sugarcane,10000,704000
+Gujarat,NARMADA,2012,Kharif     ,Rice,11600,12800
+Gujarat,NARMADA,2012,Rabi       ,Wheat,3500,10500
+Gujarat,NARMADA,2012,Summer     ,Rice,100,100
+Gujarat,NARMADA,2012,Whole Year ,Sugarcane,9400,71900
+Gujarat,NAVSARI,2003,Kharif     ,Rice,43200,102900
+Gujarat,NAVSARI,2003,Rabi       ,Wheat,300,900
+Gujarat,NAVSARI,2003,Summer     ,Rice,6500,25200
+Gujarat,NAVSARI,2003,Whole Year ,Sugarcane,27000,1827000
+Gujarat,NAVSARI,2004,Kharif     ,Rice,42900,92200
+Gujarat,NAVSARI,2004,Rabi       ,Wheat,300,900
+Gujarat,NAVSARI,2004,Summer     ,Rice,4900,15200
+Gujarat,NAVSARI,2004,Whole Year ,Sugarcane,29100,1868000
+Gujarat,NAVSARI,2005,Kharif     ,Rice,34900,87400
+Gujarat,NAVSARI,2005,Rabi       ,Wheat,500,1400
+Gujarat,NAVSARI,2005,Summer     ,Rice,5600,17900
+Gujarat,NAVSARI,2005,Whole Year ,Sugarcane,27600,1899000
+Gujarat,NAVSARI,2006,Kharif     ,Rice,35900,81800
+Gujarat,NAVSARI,2006,Rabi       ,Wheat,300,900
+Gujarat,NAVSARI,2006,Summer     ,Rice,6300,19100
+Gujarat,NAVSARI,2006,Whole Year ,Sugarcane,30500,2238000
+Gujarat,NAVSARI,2007,Kharif     ,Rice,44800,112500
+Gujarat,NAVSARI,2007,Rabi       ,Wheat,300,900
+Gujarat,NAVSARI,2007,Summer     ,Rice,6100,18800
+Gujarat,NAVSARI,2007,Whole Year ,Sugarcane,31000,2063000
+Gujarat,NAVSARI,2008,Kharif     ,Rice,46300,111200
+Gujarat,NAVSARI,2008,Rabi       ,Wheat,300,600
+Gujarat,NAVSARI,2008,Summer     ,Rice,6100,18200
+Gujarat,NAVSARI,2008,Whole Year ,Sugarcane,31500,2118000
+Gujarat,NAVSARI,2009,Kharif     ,Rice,59900,149000
+Gujarat,NAVSARI,2009,Rabi       ,Wheat,700,1800
+Gujarat,NAVSARI,2009,Summer     ,Rice,1100,3100
+Gujarat,NAVSARI,2009,Whole Year ,Sugarcane,25800,1814000
+Gujarat,NAVSARI,2010,Kharif     ,Rice,62600,161300
+Gujarat,NAVSARI,2010,Rabi       ,Wheat,600,1900
+Gujarat,NAVSARI,2010,Summer     ,Rice,24900,75300
+Gujarat,NAVSARI,2010,Whole Year ,Sugarcane,22000,1584000
+Gujarat,NAVSARI,2011,Kharif     ,Rice,52200,133900
+Gujarat,NAVSARI,2011,Rabi       ,Wheat,300,1000
+Gujarat,NAVSARI,2011,Summer     ,Rice,27400,80700
+Gujarat,NAVSARI,2011,Whole Year ,Sugarcane,21000,1327000
+Gujarat,NAVSARI,2012,Kharif     ,Rice,51300,128200
+Gujarat,NAVSARI,2012,Rabi       ,Wheat,500,1400
+Gujarat,NAVSARI,2012,Summer     ,Rice,8300,26900
+Gujarat,NAVSARI,2012,Whole Year ,Sugarcane,15000,108400
+Gujarat,PANCH MAHALS,1997,Rabi       ,Wheat,70700,144800
+Gujarat,PANCH MAHALS,1997,Whole Year ,Rice,119200,141700
+Gujarat,PANCH MAHALS,1998,Kharif     ,Rice,106600,104200
+Gujarat,PANCH MAHALS,1998,Rabi       ,Wheat,67200,156100
+Gujarat,PANCH MAHALS,1998,Whole Year ,Sugarcane,200,13000
+Gujarat,PANCH MAHALS,1999,Kharif     ,Rice,100400,40100
+Gujarat,PANCH MAHALS,1999,Rabi       ,Wheat,20800,36100
+Gujarat,PANCH MAHALS,1999,Whole Year ,Sugarcane,100,11000
+Gujarat,PANCH MAHALS,2000,Kharif     ,Rice,91200,9800
+Gujarat,PANCH MAHALS,2000,Rabi       ,Wheat,3400,6300
+Gujarat,PANCH MAHALS,2001,Kharif     ,Rice,84900,20600
+Gujarat,PANCH MAHALS,2001,Rabi       ,Wheat,4400,8100
+Gujarat,PANCH MAHALS,2002,Kharif     ,Rice,86200,26300
+Gujarat,PANCH MAHALS,2002,Rabi       ,Wheat,16500,28100
+Gujarat,PANCH MAHALS,2002,Whole Year ,Sugarcane,100,4000
+Gujarat,PANCH MAHALS,2003,Kharif     ,Rice,61600,62500
+Gujarat,PANCH MAHALS,2003,Rabi       ,Wheat,16000,32400
+Gujarat,PANCH MAHALS,2003,Summer     ,Rice,100,500
+Gujarat,PANCH MAHALS,2004,Kharif     ,Rice,69300,51600
+Gujarat,PANCH MAHALS,2004,Rabi       ,Wheat,20100,39500
+Gujarat,PANCH MAHALS,2004,Summer     ,Rice,500,1300
+Gujarat,PANCH MAHALS,2005,Kharif     ,Rice,71300,62800
+Gujarat,PANCH MAHALS,2005,Rabi       ,Wheat,19800,41500
+Gujarat,PANCH MAHALS,2005,Summer     ,Rice,1200,3700
+Gujarat,PANCH MAHALS,2005,Whole Year ,Sugarcane,100,5000
+Gujarat,PANCH MAHALS,2006,Kharif     ,Rice,70800,50300
+Gujarat,PANCH MAHALS,2006,Rabi       ,Wheat,21200,30000
+Gujarat,PANCH MAHALS,2006,Summer     ,Rice,300,900
+Gujarat,PANCH MAHALS,2006,Whole Year ,Sugarcane,100,4000
+Gujarat,PANCH MAHALS,2007,Kharif     ,Rice,77400,80700
+Gujarat,PANCH MAHALS,2007,Rabi       ,Wheat,20800,42400
+Gujarat,PANCH MAHALS,2007,Summer     ,Rice,1000,3000
+Gujarat,PANCH MAHALS,2007,Whole Year ,Sugarcane,100,9000
+Gujarat,PANCH MAHALS,2008,Kharif     ,Rice,72100,51800
+Gujarat,PANCH MAHALS,2008,Rabi       ,Wheat,19900,24700
+Gujarat,PANCH MAHALS,2008,Summer     ,Rice,300,1000
+Gujarat,PANCH MAHALS,2008,Whole Year ,Sugarcane,100,4000
+Gujarat,PANCH MAHALS,2009,Kharif     ,Rice,61000,29600
+Gujarat,PANCH MAHALS,2009,Rabi       ,Wheat,15300,24100
+Gujarat,PANCH MAHALS,2009,Summer     ,Rice,400,1100
+Gujarat,PANCH MAHALS,2009,Whole Year ,Sugarcane,100,6000
+Gujarat,PANCH MAHALS,2010,Kharif     ,Rice,70400,59600
+Gujarat,PANCH MAHALS,2010,Rabi       ,Wheat,18100,38000
+Gujarat,PANCH MAHALS,2010,Summer     ,Rice,500,1400
+Gujarat,PANCH MAHALS,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,PANCH MAHALS,2011,Kharif     ,Rice,78300,98200
+Gujarat,PANCH MAHALS,2011,Rabi       ,Wheat,29500,71700
+Gujarat,PANCH MAHALS,2011,Summer     ,Rice,800,2600
+Gujarat,PANCH MAHALS,2012,Kharif     ,Rice,67300,118900
+Gujarat,PANCH MAHALS,2012,Rabi       ,Wheat,39100,123300
+Gujarat,PANCH MAHALS,2012,Summer     ,Rice,200,800
+Gujarat,PATAN,2003,Rabi       ,Wheat,22400,61000
+Gujarat,PATAN,2004,Rabi       ,Wheat,17100,44400
+Gujarat,PATAN,2005,Rabi       ,Wheat,21600,55000
+Gujarat,PATAN,2006,Rabi       ,Wheat,27100,60100
+Gujarat,PATAN,2007,Rabi       ,Wheat,32600,81700
+Gujarat,PATAN,2008,Rabi       ,Wheat,26200,67600
+Gujarat,PATAN,2009,Rabi       ,Wheat,29300,90600
+Gujarat,PATAN,2010,Rabi       ,Wheat,47800,154800
+Gujarat,PATAN,2011,Rabi       ,Wheat,43900,137900
+Gujarat,PATAN,2012,Rabi       ,Wheat,39900,136200
+Gujarat,PORBANDAR,2003,Rabi       ,Wheat,4300,13500
+Gujarat,PORBANDAR,2004,Rabi       ,Wheat,7200,23800
+Gujarat,PORBANDAR,2005,Rabi       ,Wheat,6200,16300
+Gujarat,PORBANDAR,2006,Rabi       ,Wheat,12600,38000
+Gujarat,PORBANDAR,2007,Rabi       ,Wheat,13300,41800
+Gujarat,PORBANDAR,2008,Rabi       ,Wheat,5600,15100
+Gujarat,PORBANDAR,2009,Rabi       ,Wheat,2200,5900
+Gujarat,PORBANDAR,2010,Rabi       ,Wheat,34600,115200
+Gujarat,PORBANDAR,2011,Rabi       ,Wheat,25200,73100
+Gujarat,PORBANDAR,2012,Rabi       ,Wheat,2400,5700
+Gujarat,RAJKOT,1997,Rabi       ,Wheat,63500,225100
+Gujarat,RAJKOT,1997,Whole Year ,Sugarcane,500,37000
+Gujarat,RAJKOT,1998,Rabi       ,Wheat,43900,139200
+Gujarat,RAJKOT,1998,Whole Year ,Sugarcane,400,27000
+Gujarat,RAJKOT,1999,Rabi       ,Wheat,9000,27600
+Gujarat,RAJKOT,1999,Whole Year ,Sugarcane,200,17000
+Gujarat,RAJKOT,2000,Rabi       ,Wheat,2900,6600
+Gujarat,RAJKOT,2000,Whole Year ,Sugarcane,100,10000
+Gujarat,RAJKOT,2001,Rabi       ,Wheat,10100,26500
+Gujarat,RAJKOT,2001,Whole Year ,Sugarcane,100,4000
+Gujarat,RAJKOT,2002,Rabi       ,Wheat,12800,34400
+Gujarat,RAJKOT,2002,Whole Year ,Sugarcane,300,18000
+Gujarat,RAJKOT,2003,Rabi       ,Wheat,61900,249400
+Gujarat,RAJKOT,2004,Rabi       ,Wheat,36200,128400
+Gujarat,RAJKOT,2005,Rabi       ,Wheat,73700,268700
+Gujarat,RAJKOT,2005,Whole Year ,Sugarcane,100,10000
+Gujarat,RAJKOT,2006,Rabi       ,Wheat,84200,305600
+Gujarat,RAJKOT,2006,Whole Year ,Sugarcane,300,27000
+Gujarat,RAJKOT,2007,Rabi       ,Wheat,90900,342400
+Gujarat,RAJKOT,2007,Whole Year ,Sugarcane,200,18000
+Gujarat,RAJKOT,2008,Rabi       ,Wheat,97000,317800
+Gujarat,RAJKOT,2008,Whole Year ,Sugarcane,200,17000
+Gujarat,RAJKOT,2009,Rabi       ,Wheat,40600,154200
+Gujarat,RAJKOT,2009,Whole Year ,Sugarcane,200,14000
+Gujarat,RAJKOT,2010,Rabi       ,Wheat,170200,678300
+Gujarat,RAJKOT,2010,Whole Year ,Sugarcane,200,14000
+Gujarat,RAJKOT,2011,Rabi       ,Wheat,113800,451500
+Gujarat,RAJKOT,2011,Whole Year ,Sugarcane,100,5000
+Gujarat,RAJKOT,2012,Rabi       ,Wheat,7200,25700
+Gujarat,SABAR KANTHA,1997,Rabi       ,Wheat,65000,156500
+Gujarat,SABAR KANTHA,1997,Whole Year ,Rice,29800,54900
+Gujarat,SABAR KANTHA,1997,Whole Year ,Sugarcane,500,37000
+Gujarat,SABAR KANTHA,1998,Kharif     ,Rice,30900,51800
+Gujarat,SABAR KANTHA,1998,Rabi       ,Wheat,78000,189900
+Gujarat,SABAR KANTHA,1998,Whole Year ,Sugarcane,600,38000
+Gujarat,SABAR KANTHA,1999,Kharif     ,Rice,36900,69000
+Gujarat,SABAR KANTHA,1999,Rabi       ,Wheat,48900,90000
+Gujarat,SABAR KANTHA,1999,Whole Year ,Sugarcane,600,40000
+Gujarat,SABAR KANTHA,2000,Kharif     ,Rice,15000,15500
+Gujarat,SABAR KANTHA,2000,Rabi       ,Wheat,21500,38000
+Gujarat,SABAR KANTHA,2000,Whole Year ,Sugarcane,400,28000
+Gujarat,SABAR KANTHA,2001,Kharif     ,Rice,17000,26700
+Gujarat,SABAR KANTHA,2001,Rabi       ,Wheat,30600,55200
+Gujarat,SABAR KANTHA,2001,Whole Year ,Sugarcane,200,17000
+Gujarat,SABAR KANTHA,2002,Kharif     ,Rice,8700,14000
+Gujarat,SABAR KANTHA,2002,Rabi       ,Wheat,32800,53000
+Gujarat,SABAR KANTHA,2002,Whole Year ,Sugarcane,100,7000
+Gujarat,SABAR KANTHA,2003,Kharif     ,Rice,6500,10900
+Gujarat,SABAR KANTHA,2003,Rabi       ,Wheat,48600,121300
+Gujarat,SABAR KANTHA,2004,Kharif     ,Rice,9700,16800
+Gujarat,SABAR KANTHA,2004,Rabi       ,Wheat,42700,101200
+Gujarat,SABAR KANTHA,2005,Kharif     ,Rice,5800,14000
+Gujarat,SABAR KANTHA,2005,Rabi       ,Wheat,84000,224300
+Gujarat,SABAR KANTHA,2006,Kharif     ,Rice,8100,14500
+Gujarat,SABAR KANTHA,2006,Rabi       ,Wheat,105700,272200
+Gujarat,SABAR KANTHA,2007,Kharif     ,Rice,10300,22400
+Gujarat,SABAR KANTHA,2007,Rabi       ,Wheat,119400,323600
+Gujarat,SABAR KANTHA,2008,Kharif     ,Rice,10100,18400
+Gujarat,SABAR KANTHA,2008,Rabi       ,Wheat,90000,198100
+Gujarat,SABAR KANTHA,2009,Kharif     ,Rice,6700,16400
+Gujarat,SABAR KANTHA,2009,Rabi       ,Wheat,104500,220000
+Gujarat,SABAR KANTHA,2010,Kharif     ,Rice,5600,12000
+Gujarat,SABAR KANTHA,2010,Rabi       ,Wheat,150100,402600
+Gujarat,SABAR KANTHA,2011,Kharif     ,Rice,6700,15900
+Gujarat,SABAR KANTHA,2011,Rabi       ,Wheat,149200,389400
+Gujarat,SABAR KANTHA,2012,Kharif     ,Rice,3700,8200
+Gujarat,SABAR KANTHA,2012,Rabi       ,Wheat,154300,456400
+Gujarat,SURAT,1997,Rabi       ,Wheat,5300,8200
+Gujarat,SURAT,1997,Whole Year ,Rice,81900,149100
+Gujarat,SURAT,1997,Whole Year ,Sugarcane,95200,6888000
+Gujarat,SURAT,1998,Kharif     ,Rice,80500,166400
+Gujarat,SURAT,1998,Rabi       ,Wheat,7200,17000
+Gujarat,SURAT,1998,Whole Year ,Sugarcane,113300,8326000
+Gujarat,SURAT,1999,Kharif     ,Rice,76700,143100
+Gujarat,SURAT,1999,Rabi       ,Wheat,6200,11900
+Gujarat,SURAT,1999,Whole Year ,Sugarcane,120400,8751000
+Gujarat,SURAT,2000,Kharif     ,Rice,70600,117000
+Gujarat,SURAT,2000,Rabi       ,Wheat,5400,13200
+Gujarat,SURAT,2000,Summer     ,Rice,2900,7500
+Gujarat,SURAT,2000,Whole Year ,Sugarcane,119000,8887000
+Gujarat,SURAT,2001,Kharif     ,Rice,83500,167000
+Gujarat,SURAT,2001,Rabi       ,Wheat,4800,8700
+Gujarat,SURAT,2001,Summer     ,Rice,2900,8900
+Gujarat,SURAT,2001,Whole Year ,Sugarcane,113600,8521000
+Gujarat,SURAT,2002,Kharif     ,Rice,73500,137200
+Gujarat,SURAT,2002,Rabi       ,Wheat,6700,11600
+Gujarat,SURAT,2002,Summer     ,Rice,5100,24600
+Gujarat,SURAT,2002,Whole Year ,Sugarcane,118300,8304000
+Gujarat,SURAT,2003,Kharif     ,Rice,80000,154800
+Gujarat,SURAT,2003,Rabi       ,Wheat,6700,15500
+Gujarat,SURAT,2003,Summer     ,Rice,5300,17000
+Gujarat,SURAT,2003,Whole Year ,Sugarcane,102700,7717000
+Gujarat,SURAT,2004,Kharif     ,Rice,79300,141000
+Gujarat,SURAT,2004,Rabi       ,Wheat,5500,13300
+Gujarat,SURAT,2004,Summer     ,Rice,4700,12200
+Gujarat,SURAT,2004,Whole Year ,Sugarcane,116500,9071000
+Gujarat,SURAT,2005,Kharif     ,Rice,68300,131200
+Gujarat,SURAT,2005,Rabi       ,Wheat,6500,16300
+Gujarat,SURAT,2005,Summer     ,Rice,3700,10700
+Gujarat,SURAT,2005,Whole Year ,Sugarcane,130600,11754000
+Gujarat,SURAT,2006,Kharif     ,Rice,72600,144200
+Gujarat,SURAT,2006,Rabi       ,Wheat,6900,17200
+Gujarat,SURAT,2006,Summer     ,Rice,5100,14400
+Gujarat,SURAT,2006,Whole Year ,Sugarcane,119600,9147000
+Gujarat,SURAT,2007,Kharif     ,Rice,80500,154900
+Gujarat,SURAT,2007,Rabi       ,Wheat,9700,18900
+Gujarat,SURAT,2007,Summer     ,Rice,7900,21700
+Gujarat,SURAT,2007,Whole Year ,Sugarcane,125900,9020000
+Gujarat,SURAT,2008,Kharif     ,Rice,58400,124300
+Gujarat,SURAT,2008,Rabi       ,Wheat,6100,13900
+Gujarat,SURAT,2008,Summer     ,Rice,9700,33200
+Gujarat,SURAT,2008,Whole Year ,Sugarcane,112400,7974000
+Gujarat,SURAT,2009,Kharif     ,Rice,54600,130300
+Gujarat,SURAT,2009,Rabi       ,Wheat,9200,23800
+Gujarat,SURAT,2009,Summer     ,Rice,6200,20300
+Gujarat,SURAT,2009,Whole Year ,Sugarcane,101400,7007000
+Gujarat,SURAT,2010,Kharif     ,Rice,60700,124000
+Gujarat,SURAT,2010,Rabi       ,Wheat,6200,18900
+Gujarat,SURAT,2010,Summer     ,Rice,18900,56500
+Gujarat,SURAT,2010,Whole Year ,Sugarcane,98900,7411000
+Gujarat,SURAT,2011,Kharif     ,Rice,52300,126800
+Gujarat,SURAT,2011,Rabi       ,Wheat,8000,20700
+Gujarat,SURAT,2011,Summer     ,Rice,19000,64000
+Gujarat,SURAT,2011,Whole Year ,Sugarcane,105900,6942000
+Gujarat,SURAT,2012,Kharif     ,Rice,39700,84100
+Gujarat,SURAT,2012,Rabi       ,Wheat,8100,23100
+Gujarat,SURAT,2012,Summer     ,Rice,8900,26900
+Gujarat,SURAT,2012,Whole Year ,Sugarcane,84400,611300
+Gujarat,SURENDRANAGAR,1997,Rabi       ,Wheat,22500,46800
+Gujarat,SURENDRANAGAR,1997,Whole Year ,Rice,600,1200
+Gujarat,SURENDRANAGAR,1997,Whole Year ,Sugarcane,400,32000
+Gujarat,SURENDRANAGAR,1998,Kharif     ,Rice,100,300
+Gujarat,SURENDRANAGAR,1998,Rabi       ,Wheat,20600,34900
+Gujarat,SURENDRANAGAR,1998,Whole Year ,Sugarcane,600,42000
+Gujarat,SURENDRANAGAR,1999,Kharif     ,Rice,500,1000
+Gujarat,SURENDRANAGAR,1999,Rabi       ,Wheat,19000,38700
+Gujarat,SURENDRANAGAR,1999,Whole Year ,Sugarcane,600,42000
+Gujarat,SURENDRANAGAR,2000,Kharif     ,Rice,700,400
+Gujarat,SURENDRANAGAR,2000,Rabi       ,Wheat,12900,29800
+Gujarat,SURENDRANAGAR,2000,Whole Year ,Sugarcane,400,29000
+Gujarat,SURENDRANAGAR,2001,Kharif     ,Rice,800,1200
+Gujarat,SURENDRANAGAR,2001,Rabi       ,Wheat,11900,26900
+Gujarat,SURENDRANAGAR,2001,Whole Year ,Sugarcane,100,5000
+Gujarat,SURENDRANAGAR,2002,Kharif     ,Rice,600,600
+Gujarat,SURENDRANAGAR,2002,Rabi       ,Wheat,15300,28300
+Gujarat,SURENDRANAGAR,2002,Whole Year ,Sugarcane,400,26000
+Gujarat,SURENDRANAGAR,2003,Kharif     ,Rice,200,300
+Gujarat,SURENDRANAGAR,2003,Rabi       ,Wheat,26100,67300
+Gujarat,SURENDRANAGAR,2004,Rabi       ,Wheat,25500,52400
+Gujarat,SURENDRANAGAR,2004,Whole Year ,Sugarcane,500,35000
+Gujarat,SURENDRANAGAR,2005,Kharif     ,Rice,500,1100
+Gujarat,SURENDRANAGAR,2005,Rabi       ,Wheat,35300,77500
+Gujarat,SURENDRANAGAR,2005,Whole Year ,Sugarcane,100,5000
+Gujarat,SURENDRANAGAR,2006,Kharif     ,Rice,500,900
+Gujarat,SURENDRANAGAR,2006,Rabi       ,Wheat,32400,73100
+Gujarat,SURENDRANAGAR,2006,Whole Year ,Sugarcane,300,21000
+Gujarat,SURENDRANAGAR,2007,Kharif     ,Rice,800,1500
+Gujarat,SURENDRANAGAR,2007,Rabi       ,Wheat,41000,119300
+Gujarat,SURENDRANAGAR,2007,Whole Year ,Sugarcane,300,22000
+Gujarat,SURENDRANAGAR,2008,Kharif     ,Rice,900,1000
+Gujarat,SURENDRANAGAR,2008,Rabi       ,Wheat,36500,86700
+Gujarat,SURENDRANAGAR,2008,Whole Year ,Sugarcane,100,6000
+Gujarat,SURENDRANAGAR,2009,Kharif     ,Rice,600,600
+Gujarat,SURENDRANAGAR,2009,Rabi       ,Wheat,28600,70100
+Gujarat,SURENDRANAGAR,2009,Whole Year ,Sugarcane,100,7000
+Gujarat,SURENDRANAGAR,2010,Rabi       ,Wheat,66100,206700
+Gujarat,SURENDRANAGAR,2010,Whole Year ,Sugarcane,100,7000
+Gujarat,SURENDRANAGAR,2011,Kharif     ,Rice,500,1200
+Gujarat,SURENDRANAGAR,2011,Rabi       ,Wheat,66900,207100
+Gujarat,SURENDRANAGAR,2011,Whole Year ,Sugarcane,100,6000
+Gujarat,SURENDRANAGAR,2012,Kharif     ,Rice,200,400
+Gujarat,SURENDRANAGAR,2012,Rabi       ,Wheat,33600,94100
+Gujarat,TAPI,2008,Kharif     ,Rice,25700,38100
+Gujarat,TAPI,2008,Rabi       ,Wheat,4900,12200
+Gujarat,TAPI,2008,Summer     ,Rice,700,1500
+Gujarat,TAPI,2008,Whole Year ,Sugarcane,19500,1420000
+Gujarat,TAPI,2009,Kharif     ,Rice,29400,48300
+Gujarat,TAPI,2009,Rabi       ,Wheat,4000,11000
+Gujarat,TAPI,2009,Summer     ,Rice,700,2200
+Gujarat,TAPI,2009,Whole Year ,Sugarcane,15800,1122000
+Gujarat,TAPI,2010,Kharif     ,Rice,35400,71900
+Gujarat,TAPI,2010,Rabi       ,Wheat,5300,17500
+Gujarat,TAPI,2010,Summer     ,Rice,2600,7900
+Gujarat,TAPI,2010,Whole Year ,Sugarcane,10100,516000
+Gujarat,TAPI,2011,Kharif     ,Rice,47300,99300
+Gujarat,TAPI,2011,Rabi       ,Wheat,5400,16800
+Gujarat,TAPI,2011,Summer     ,Rice,2600,8300
+Gujarat,TAPI,2011,Whole Year ,Sugarcane,18100,803000
+Gujarat,TAPI,2012,Kharif     ,Rice,45800,119400
+Gujarat,TAPI,2012,Rabi       ,Wheat,5000,14700
+Gujarat,TAPI,2012,Summer     ,Rice,900,2900
+Gujarat,TAPI,2012,Whole Year ,Sugarcane,22400,167300
+Gujarat,VADODARA,1997,Rabi       ,Wheat,13900,29700
+Gujarat,VADODARA,1997,Whole Year ,Rice,54700,54700
+Gujarat,VADODARA,1997,Whole Year ,Sugarcane,1400,104000
+Gujarat,VADODARA,1998,Kharif     ,Rice,53500,61900
+Gujarat,VADODARA,1998,Rabi       ,Wheat,19800,33600
+Gujarat,VADODARA,1998,Whole Year ,Sugarcane,3100,211000
+Gujarat,VADODARA,1999,Kharif     ,Rice,48300,26800
+Gujarat,VADODARA,1999,Rabi       ,Wheat,15100,35800
+Gujarat,VADODARA,1999,Whole Year ,Sugarcane,2100,145000
+Gujarat,VADODARA,2000,Kharif     ,Rice,51500,6100
+Gujarat,VADODARA,2000,Rabi       ,Wheat,6000,14400
+Gujarat,VADODARA,2000,Whole Year ,Sugarcane,1000,76000
+Gujarat,VADODARA,2001,Kharif     ,Rice,58600,48700
+Gujarat,VADODARA,2001,Rabi       ,Wheat,7300,15600
+Gujarat,VADODARA,2001,Whole Year ,Sugarcane,1200,86000
+Gujarat,VADODARA,2002,Kharif     ,Rice,47200,38000
+Gujarat,VADODARA,2002,Rabi       ,Wheat,10500,24000
+Gujarat,VADODARA,2002,Whole Year ,Sugarcane,1800,128000
+Gujarat,VADODARA,2003,Kharif     ,Rice,47200,59400
+Gujarat,VADODARA,2003,Rabi       ,Wheat,16100,38700
+Gujarat,VADODARA,2003,Whole Year ,Sugarcane,2700,194000
+Gujarat,VADODARA,2004,Kharif     ,Rice,52100,54300
+Gujarat,VADODARA,2004,Rabi       ,Wheat,16000,36000
+Gujarat,VADODARA,2004,Whole Year ,Sugarcane,2300,168000
+Gujarat,VADODARA,2005,Kharif     ,Rice,53100,61300
+Gujarat,VADODARA,2005,Rabi       ,Wheat,15700,35400
+Gujarat,VADODARA,2005,Whole Year ,Sugarcane,2400,155000
+Gujarat,VADODARA,2006,Kharif     ,Rice,49500,57400
+Gujarat,VADODARA,2006,Rabi       ,Wheat,23500,52900
+Gujarat,VADODARA,2006,Whole Year ,Sugarcane,3200,223000
+Gujarat,VADODARA,2007,Kharif     ,Rice,61400,83600
+Gujarat,VADODARA,2007,Rabi       ,Wheat,30100,77700
+Gujarat,VADODARA,2007,Whole Year ,Sugarcane,3900,279000
+Gujarat,VADODARA,2008,Kharif     ,Rice,60400,67100
+Gujarat,VADODARA,2008,Rabi       ,Wheat,24400,55300
+Gujarat,VADODARA,2008,Whole Year ,Sugarcane,6600,461000
+Gujarat,VADODARA,2009,Kharif     ,Rice,52500,47700
+Gujarat,VADODARA,2009,Rabi       ,Wheat,20100,51500
+Gujarat,VADODARA,2009,Whole Year ,Sugarcane,5600,404000
+Gujarat,VADODARA,2010,Kharif     ,Rice,55100,68100
+Gujarat,VADODARA,2010,Rabi       ,Wheat,47500,132600
+Gujarat,VADODARA,2010,Whole Year ,Sugarcane,7700,470000
+Gujarat,VADODARA,2011,Kharif     ,Rice,44400,55300
+Gujarat,VADODARA,2011,Rabi       ,Wheat,47200,128400
+Gujarat,VADODARA,2011,Whole Year ,Sugarcane,7000,317000
+Gujarat,VADODARA,2012,Kharif     ,Rice,44600,63200
+Gujarat,VADODARA,2012,Rabi       ,Wheat,36500,125000
+Gujarat,VADODARA,2012,Whole Year ,Sugarcane,7400,45200
+Gujarat,VALSAD,1997,Rabi       ,Wheat,400,1100
+Gujarat,VALSAD,1997,Whole Year ,Rice,97800,172200
+Gujarat,VALSAD,1997,Whole Year ,Sugarcane,38600,2636000
+Gujarat,VALSAD,1998,Kharif     ,Rice,102300,195700
+Gujarat,VALSAD,1998,Rabi       ,Wheat,400,1100
+Gujarat,VALSAD,1998,Whole Year ,Sugarcane,41500,2506000
+Gujarat,VALSAD,1999,Kharif     ,Rice,97300,183900
+Gujarat,VALSAD,1999,Rabi       ,Wheat,500,1100
+Gujarat,VALSAD,1999,Whole Year ,Sugarcane,33700,1918000
+Gujarat,VALSAD,2000,Kharif     ,Rice,99800,162800
+Gujarat,VALSAD,2000,Rabi       ,Wheat,600,1500
+Gujarat,VALSAD,2000,Summer     ,Rice,900,2700
+Gujarat,VALSAD,2000,Whole Year ,Sugarcane,26900,1573000
+Gujarat,VALSAD,2001,Kharif     ,Rice,109200,229900
+Gujarat,VALSAD,2001,Rabi       ,Wheat,700,1800
+Gujarat,VALSAD,2001,Summer     ,Rice,400,1200
+Gujarat,VALSAD,2001,Whole Year ,Sugarcane,24000,1390000
+Gujarat,VALSAD,2002,Kharif     ,Rice,87900,142600
+Gujarat,VALSAD,2002,Rabi       ,Wheat,1000,2200
+Gujarat,VALSAD,2002,Summer     ,Rice,5900,26400
+Gujarat,VALSAD,2002,Whole Year ,Sugarcane,39300,2733000
+Gujarat,VALSAD,2003,Kharif     ,Rice,42700,93300
+Gujarat,VALSAD,2003,Rabi       ,Wheat,500,1500
+Gujarat,VALSAD,2003,Summer     ,Rice,300,700
+Gujarat,VALSAD,2003,Whole Year ,Sugarcane,11200,638000
+Gujarat,VALSAD,2004,Kharif     ,Rice,49100,89400
+Gujarat,VALSAD,2004,Rabi       ,Wheat,500,1300
+Gujarat,VALSAD,2004,Summer     ,Rice,100,300
+Gujarat,VALSAD,2004,Whole Year ,Sugarcane,14000,835000
+Gujarat,VALSAD,2005,Kharif     ,Rice,47500,94800
+Gujarat,VALSAD,2005,Rabi       ,Wheat,600,1500
+Gujarat,VALSAD,2005,Summer     ,Rice,1700,4900
+Gujarat,VALSAD,2005,Whole Year ,Sugarcane,15900,1044000
+Gujarat,VALSAD,2006,Kharif     ,Rice,50600,96500
+Gujarat,VALSAD,2006,Rabi       ,Wheat,600,1800
+Gujarat,VALSAD,2006,Summer     ,Rice,1800,5100
+Gujarat,VALSAD,2006,Whole Year ,Sugarcane,16200,1127000
+Gujarat,VALSAD,2007,Kharif     ,Rice,57500,127700
+Gujarat,VALSAD,2007,Rabi       ,Wheat,300,1000
+Gujarat,VALSAD,2007,Summer     ,Rice,800,2500
+Gujarat,VALSAD,2007,Whole Year ,Sugarcane,9900,657000
+Gujarat,VALSAD,2008,Kharif     ,Rice,60300,127500
+Gujarat,VALSAD,2008,Rabi       ,Wheat,300,800
+Gujarat,VALSAD,2008,Summer     ,Rice,800,2500
+Gujarat,VALSAD,2008,Whole Year ,Sugarcane,9600,650000
+Gujarat,VALSAD,2009,Kharif     ,Rice,58300,112900
+Gujarat,VALSAD,2009,Rabi       ,Wheat,300,700
+Gujarat,VALSAD,2009,Summer     ,Rice,700,2100
+Gujarat,VALSAD,2009,Whole Year ,Sugarcane,8600,615000
+Gujarat,VALSAD,2010,Kharif     ,Rice,58600,118200
+Gujarat,VALSAD,2010,Summer     ,Rice,9500,28800
+Gujarat,VALSAD,2010,Whole Year ,Sugarcane,8800,598000
+Gujarat,VALSAD,2011,Kharif     ,Rice,67300,145100
+Gujarat,VALSAD,2011,Rabi       ,Wheat,200,700
+Gujarat,VALSAD,2011,Summer     ,Rice,2700,8700
+Gujarat,VALSAD,2011,Whole Year ,Sugarcane,7600,532000
+Gujarat,VALSAD,2012,Kharif     ,Rice,63800,143900
+Gujarat,VALSAD,2012,Summer     ,Rice,600,1700
+Gujarat,VALSAD,2012,Whole Year ,Sugarcane,8600,65500
